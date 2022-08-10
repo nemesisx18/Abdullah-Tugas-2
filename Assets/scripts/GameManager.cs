@@ -65,8 +65,8 @@ public class GameManager : MonoBehaviour {
 
 	void OnPlayerScored(){
 	
-		_score++;
-		scoreText.text = _score;
+		score++;
+		scoreText.text = score.ToString();
 	}
 
 	void SetPageState(PageState state){
