@@ -914,11 +914,11 @@ MonoBehaviour:
   Prefab: {fileID: 1391102677046910, guid: a106ac76a1c2e0f4faabcd2c72e13c15, type: 3}
   poolSize: 5
   shiftSpeed: 0.25
-  spawnRate: 150
+  spawnRate: 20
   ySpawnRange:
     min: 0.5
     max: 0.5
-  defaultSpawnPos: {x: 17.44, y: 0, z: 0}
+  defaultSpawnPos: {x: 7, y: 0, z: 0}
   spawnImmediate: 1
   immediateSpawnPos: {x: 0, y: 0, z: 0}
   targetAspectsRatio: {x: 10, y: 16}
@@ -1317,11 +1317,11 @@ MonoBehaviour:
   Prefab: {fileID: 1477370642792966, guid: 07cc8c32a9ff3af4f95cd7758a07b49e, type: 3}
   poolSize: 5
   shiftSpeed: 0.7
-  spawnRate: 70
+  spawnRate: 15
   ySpawnRange:
     min: 0.5
     max: 0.5
-  defaultSpawnPos: {x: 17.44, y: 0, z: 0}
+  defaultSpawnPos: {x: 6.5, y: 0, z: 0}
   spawnImmediate: 1
   immediateSpawnPos: {x: 0, y: 0, z: 0}
   targetAspectsRatio: {x: 10, y: 16}
